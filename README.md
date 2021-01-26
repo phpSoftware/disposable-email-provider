@@ -5,3 +5,7 @@ Disposable email addresses (one-way emails) are used for a one-time sign-up when
 This approach is understandable and sometimes ok. If you still want to block such addresses, you can find a list of such mail providers here.
 
 If you know of other providers or find one that no longer exists (yes, the list is old and a bit outdated), I would be happy to hear from you.
+
+> Disposable email addresses, also called trash email addresses or fake email addresses
+> 
+> Wegwerf-eMail-Adressen, auch TrashMail-Adressen oder Fake-eMail-Adressen
